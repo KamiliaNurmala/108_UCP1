@@ -26,5 +26,5 @@ module.exports = (sequelize, DataTypes) => {
         freezeTableName : true,
         timestamps : true
     });
-    return Komik;
+    return Hotel;
 }
